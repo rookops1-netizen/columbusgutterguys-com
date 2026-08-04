@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://columbusgutterguys.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://columbusgutterguys.com/services/gutter-installation/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://columbusgutterguys.com/services/gutter-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://columbusgutterguys.com/services/gutter-repair/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://columbusgutterguys.com/services/gutter-guards/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://columbusgutterguys.com/services/downspout-repair/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://columbusgutterguys.com/services/commercial-gutters/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://columbusgutterguys.com/contact/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/services/downspout-repair/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgutterguys.com/services/gutter-cleaning/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgutterguys.com/services/gutter-guards/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgutterguys.com/services/gutter-installation/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgutterguys.com/services/gutter-repair/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://columbusgutterguys.com/areas-we-serve/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/delaware-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/dublin-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/grove-city-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/hilliard-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/new-albany-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/reynoldsburg-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/upper-arlington-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/locations/westerville-oh/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://columbusgutterguys.com/contact/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
